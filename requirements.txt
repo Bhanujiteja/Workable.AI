@@ -1,0 +1,13 @@
+openai
+langchain
+pdfplumber
+pytesseract
+pillow
+python-docx
+tqdm
+pylatexenc
+faiss-cpu
+llama-index
+easyocr
+langchain_community
+groq
